@@ -1,0 +1,9 @@
+
+1. What are the key differences between Merge Sort and Quick Sort, and in what scenarios would one be preferred over the other?
+
+2. How does Dijkstra's algorithm ensure the shortest path in a weighted graph, and what are its time complexity and practical applications?
+
+
+4. Compare and contrast Depth-First Search (DFS) and Breadth-First Search (BFS) in terms of their traversal methods, time complexity, and typical use cases.
+
+5. Describe the working principle of a Support Vector Machine (SVM). What types of problems is SVM best suited for, and how does the choice of kernel function affect its performance?
