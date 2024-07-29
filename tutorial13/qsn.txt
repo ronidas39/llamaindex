@@ -1,0 +1,4 @@
+What are semiconductors?
+Why are semiconductors considered crucial in modern technology?
+What are the differences between intrinsic and extrinsic semiconductors?
+How does doping affect the electrical properties of semiconductors?
