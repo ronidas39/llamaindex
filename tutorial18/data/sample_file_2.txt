@@ -1,0 +1,1 @@
+File 2 contains a different message. Text files are easy to read and write.
